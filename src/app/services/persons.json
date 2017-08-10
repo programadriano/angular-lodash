@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Steve Jobs",
+        "birthday": "24/02/1955"
+    },
+    {
+        "id": 2,
+        "name": "Bill Gates",
+        "birthday": "28/10/1955"
+    }
+]
